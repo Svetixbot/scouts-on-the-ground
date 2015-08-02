@@ -1,7 +1,5 @@
 # Scouts on the ground
 
-## Find gaps in sensors measurements
-
 ![Image of Mothership](https://github.com/Svetixbot/scouts-on-the-ground/blob/master/mothership.png)
 
 Scouts are spread around a planet and receive all the data from sensors. This information is collected at every scout and get transdered every minute to mothership for futher processing. 
@@ -13,7 +11,7 @@ Sometimes sensors fail and stop collecting and sending information to the scouts
 
 ### Input format: 
 
-| scout| port | sequence | time_interval                                       |
+| scout| sensor | sequence | time_interval                                       |
 |----- |:----:| --------:| ---------------------------------------------------:|
 | 24   | 1    | 23162    | "[""2015-07-20 10:15:31"",""2015-07-20 10:16:08"")" |
 |24|1|23163|"[""2015-07-20 10:16:09"",""2015-07-20 10:17:08"")"|
@@ -24,6 +22,6 @@ Sometimes sensors fail and stop collecting and sending information to the scouts
 
 
 ### Output: 
-| scout | port | loss_inteval |
+| scout | sensor | loss_inteval |
 |----- |:----:| --------:|
 | 24 | 1 | "[""2015-07-20 10:17:09"",""2015-07-20 10:18:30"")"
