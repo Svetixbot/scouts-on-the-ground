@@ -2,7 +2,7 @@
 
 ## Find gaps in sensors measurements
 
-![Image of Mothership](https://svetixbot.github.com/scouts-on-the-ground/images/mothership.png)
+![Image of Mothership](https://github.com/Svetixbot/scouts-on-the-ground/blob/master/mothership.png)
 
 Scouts are spread around a planet and receive all the data from sensors. This information is collected at every scout and get transdered every minute to mothership for futher processing. 
 
