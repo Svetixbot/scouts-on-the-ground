@@ -25,3 +25,9 @@ Sometimes sensors fail and stop collecting and sending information to the scouts
 | scout | sensor | loss_inteval |
 |----- |:----:| --------:|
 | 24 | 1 | "[""2015-07-20 10:17:09"",""2015-07-20 10:18:30"")"
+
+
+### Data sources:
+[Original ~300MB](https://s3-ap-southeast-2.amazonaws.com/scouts-on-the-ground/scouts.csv)
+
+[Small sample](https://s3-ap-southeast-2.amazonaws.com/scouts-on-the-ground/scouts-sample.csv)
