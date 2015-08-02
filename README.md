@@ -29,3 +29,6 @@ Sometimes sensors fail and stop collecting and sending information to the scouts
 
 ### Data source:
 [Here ~300MB](https://s3-ap-southeast-2.amazonaws.com/scouts-on-the-ground/scouts.csv)
+
+## Python solution
+[Spoiler alert](https://github.com/Svetixbot/scouts-python)
